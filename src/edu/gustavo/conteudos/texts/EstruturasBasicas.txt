@@ -1,0 +1,24 @@
+Classe
+-Substantivos
+-Nomes significativos
+-Contexto deve ser considerado
+
+Atributo
+-Substantivos e adjetivos
+-Nome significativos 
+-Contexto deve ser considerado
+-Abstração
+-Tipos adequados
+
+Método
+Constructor
+Destructor
+
+-Verbos
+-Nomes significativos
+-Contexto dever ser considerado
+
+Objeto
+-
+
+Mensagem

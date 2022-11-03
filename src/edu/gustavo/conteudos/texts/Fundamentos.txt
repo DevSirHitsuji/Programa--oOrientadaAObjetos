@@ -1,0 +1,7 @@
+A orientação a bojetos é um paradigma de analise, projeto e programação de sistemas de software baseado na composição e interação entre diversas unidades de software chamadas de objetos.
+
+Fundamentos
+
+1- Abstração
+2- Reuso
+3- Encapsulamento

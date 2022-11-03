@@ -1,0 +1,6 @@
+Padroes de projeto (desing patterns)
+Boa praticas: Solid, codigo, tecnicas de programação, etc.
+Refatoração
+UML
+Frameworks
+Muita pratica e estudo

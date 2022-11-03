@@ -1,0 +1,22 @@
+Herança
+1.tipos
+-Simples e multipla
+2.UpCast e Downcast
+3.Polimorfismo e Sobrescrita
+
+Associação
+1.tipos
+1.1 Estrutural
+-Composição
+-Agregação
+1.2 Comportamental
+-Depedência
+
+Iterface
+
+Estudar fora aparte
+Tipos de classe: Abstrata e Concreta
+Metodos abstrato
+Caracteristicas das associaçõe
+Palavras coringas: super, base, super()
+Relações entre classes e interface: extends e implements
